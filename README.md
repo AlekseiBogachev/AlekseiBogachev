@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @AlekseiBogachev
+### 👋 Hi, I’m Aleksei Bogachev
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning python and data science
 - 💞️ I’m looking to collaborate on data science projects
