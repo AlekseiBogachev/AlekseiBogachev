@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlekseiBogachev
+### 👋 Hi, I’m @AlekseiBogachev
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning python and data science
 - 💞️ I’m looking to collaborate on data science projects
@@ -13,7 +13,6 @@
 <img align="left" alt="scikit-learn" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" height="48">
 <img align="left" alt="Matplotlib" src="https://matplotlib.org/_static/images/logo2.svg" height="48">
 <img align="left" alt="seaborn" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="48">
-
 
 </br>
 </br>
