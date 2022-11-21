@@ -21,6 +21,7 @@
 
 <img align="left" alt="TensorFlow" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" height="48">
 <img align="left" alt="LaTeX" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" height="48">
+<img align="left" alt="Markdown" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png" height="48">
 
 </br>
 </br>
