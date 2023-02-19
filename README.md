@@ -35,16 +35,15 @@
 Я буду признателен за любую обратную связь, поэтому если у Вас будут какие-либо
 комментарии, критика или предложения после просмотра, пожалуйста, напишите мне об этом.
 
-- [pydlts](https://github.com/AlekseiBogachev/pydlts) - самый последний проект, один из наиболее сложных и интересных.
+- [Titanic-Machine-Learning-from-Disaster](https://github.com/AlekseiBogachev/Titanic-Machine-Learning-from-Disaster) - Titanic ML competition на Kaggle.
+- [pydlts](https://github.com/AlekseiBogachev/pydlts) - один из наиболее сложных и интересных проектов.
 - [fs_reader](https://github.com/AlekseiBogachev/fs_reader) - маленький но хорошо задокументированный проект, 
   модуль из него вошёл в [pydlts](https://github.com/AlekseiBogachev/pydlts).
 - [data-acquisition-and-report](https://github.com/AlekseiBogachev/data-acquisition-and-report) - Пример оформленных данных 
   (результатов измерений), которые я собираю в своей научной работе.
 - [CitationsPrepr](https://github.com/AlekseiBogachev/CitationsPrepr) - совсем маленький и простой скетч, демонстрирующий работу с регулярными выражениями.
   С него началось моё увлечение data science.
-- [Titanic-Machine-Learning-from-Disaster](https://github.com/AlekseiBogachev/Titanic-Machine-Learning-from-Disaster) - незаконченный проект для Titanic ML competition на Kaggle. Пока не законченный, зато с красивыми графиками и красивым отчётом.
 
-*Некторые проекты я прокомментировал на английском, чтобы не терять навык.
 
 
 ----
