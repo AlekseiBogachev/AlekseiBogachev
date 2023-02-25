@@ -3,8 +3,8 @@
 - Мне интересны data science и machine learning
 --->
 - Активно изучаю data science и машинное обучение, чтобы начать карьеру в этой области знаний.
-- Всегда открыт к новым предложениям и сотрудничеству, с удовольствием приму участие в проектах из области data science и ML.
-- По всем вопросам пишите на мой e-mail: bogachev.aleksey.m@gmail.com
+- Открыт к новым предложениям о сотрудничестве, буду рад принять участие в проектах из области data science и ML.
+- По всем вопросам пишите на e-mail: bogachev.aleksey.m@gmail.com
 
 ----
 
@@ -30,18 +30,17 @@
 
 ### Мои проекты
 
-В этом разделе приведены ссылки на примеры или фрагменты проектов, над которыми я работал. 
-Я буду признателен за любую обратную связь, поэтому если у Вас будут какие-либо
+В этом разделе приведены ссылки на проекты или их фрагменты, над которыми я работал. 
+Буду признателен за обратную связь, поэтому, если у Вас будут какие-либо
 комментарии, критика или предложения после просмотра, пожалуйста, напишите мне об этом.
 
 - [Titanic-Machine-Learning-from-Disaster](https://github.com/AlekseiBogachev/Titanic-Machine-Learning-from-Disaster) - Titanic ML competition на Kaggle.
 - [pydlts](https://github.com/AlekseiBogachev/pydlts) - один из наиболее сложных и интересных проектов.
-- [fs_reader](https://github.com/AlekseiBogachev/fs_reader) - маленький но хорошо задокументированный проект, 
+- [fs_reader](https://github.com/AlekseiBogachev/fs_reader) - маленький, но хорошо задокументированный проект, 
   модуль из него вошёл в [pydlts](https://github.com/AlekseiBogachev/pydlts).
-- [data-acquisition-and-report](https://github.com/AlekseiBogachev/data-acquisition-and-report) - Пример оформленных данных 
+- [data-acquisition-and-report](https://github.com/AlekseiBogachev/data-acquisition-and-report) - пример оформленных данных 
   (результатов измерений), которые я собираю в своей научной работе.
 - [CitationsPrepr](https://github.com/AlekseiBogachev/CitationsPrepr) - совсем маленький и простой скетч, демонстрирующий работу с регулярными выражениями.
-  С него началось моё увлечение data science.
   
  
 ----
