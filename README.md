@@ -34,8 +34,9 @@
 Буду признателен за обратную связь, поэтому, если у Вас будут какие-либо
 комментарии, критика или предложения после просмотра, пожалуйста, напишите мне об этом.
 
-- [Titanic-Machine-Learning-from-Disaster](https://github.com/AlekseiBogachev/Titanic-Machine-Learning-from-Disaster) - Titanic ML competition на Kaggle.
-- [pydlts](https://github.com/AlekseiBogachev/pydlts) - один из наиболее сложных и интересных проектов.
+- [Titanic-Machine-Learning-from-Disaster](https://github.com/AlekseiBogachev/Titanic-Machine-Learning-from-Disaster) - Titanic ML competition 
+на Kaggle (возможен запуск в *Docker*).
+- [pydlts](https://github.com/AlekseiBogachev/pydlts) - интересный проект, посвящённый регрессионным моделям.
 - [fs_reader](https://github.com/AlekseiBogachev/fs_reader) - маленький, но хорошо задокументированный проект, 
   модуль из него вошёл в [pydlts](https://github.com/AlekseiBogachev/pydlts).
 - [data-acquisition-and-report](https://github.com/AlekseiBogachev/data-acquisition-and-report) - пример оформленных данных 
