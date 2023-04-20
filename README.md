@@ -27,6 +27,12 @@
 
 ----
 
+### Проекты из курса Яндекс Практикума "Специалист по DataScience"
+Все проекты курса собраны в отдельный [репозиторий](https://github.com/AlekseiBogachev/yapracticum).
+  
+ 
+----
+
 
 ### Мои проекты
 
@@ -42,13 +48,6 @@
 - [data-acquisition-and-report](https://github.com/AlekseiBogachev/data-acquisition-and-report) - пример оформленных данных 
   (результатов измерений), которые я собираю в своей научной работе.
 - [CitationsPrepr](https://github.com/AlekseiBogachev/CitationsPrepr) - совсем маленький и простой скетч, демонстрирующий работу с регулярными выражениями.
-  
- 
-----
-  
-### Проекты из курса Яндекс Практикума "Специалист по DataScience"
-Все проекты курса собраны в отдельный [репозиторий](https://github.com/AlekseiBogachev/yapracticum).
-
 
 ----
   
